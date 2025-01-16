@@ -20,7 +20,7 @@ A fun and minimalistic dice roller application. Features include:
 - Displays a random number between 1 and 6, simulating a dice roll.
 
 ### Screenshot
-![Dice Roller UI]()
+![Dice Roller UI](./Doc/Dice.PNG)
 
 ---
 
@@ -33,7 +33,7 @@ A simple GUI application to convert temperatures between Celsius and Fahrenheit 
 - A button to switch the conversion mode.
 
 ### Screenshot
-![Temperature Converter UI]()
+![Temperature Converter UI](./Doc/CelciusToFarh.PNG)
 
 ---
 
@@ -46,6 +46,6 @@ A basic text editor with file-handling capabilities. Key features:
 - A clean and responsive interface for editing text.
 
 ### Screenshot
-![Text Editor UI]()
+![Text Editor UI](./Doc/TextEditor.PNG)
 
 
