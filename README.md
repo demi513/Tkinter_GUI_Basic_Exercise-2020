@@ -1,13 +1,15 @@
-# Tkinter-GUI-Basic-Exercise
-
 # Tkinter Mini Projects
 
 This repository contains three standalone projects built using Python's `Tkinter` library. Each project demonstrates a specific concept and functionality, showcasing the versatility of `Tkinter` for building GUI applications.
+
+## What I learned:
+- Basic `Tkinter` GUI functionalities
 
 ## Table of Contents
 1. [Dice Roller](#dice-roller)
 2. [Temperature Converter](#temperature-converter)
 3. [Text Editor](#text-editor)
+
 
 
 ---
